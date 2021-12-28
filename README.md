@@ -1,1 +1,1 @@
-# myDAO
+# A decentalized Autonomous Orgnaization
